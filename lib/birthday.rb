@@ -5,7 +5,7 @@
 # }
 
 def happy_birthday(birthday_kids)
-  birthday_kids.each {|key,value| "Happy Birthday #{key}! You are now #{value}"}
+  birthday_kids.each {|key,value| "Happy Birthday #{key}! You are now #{value}!"}
 end
 
 
